@@ -1,0 +1,2 @@
+This is an interactive tutorial allowing user to distinguish between good friction and bad friction.Good friction is the friction which has some usefulness and bad friction is the one that just increases the costs. It requires Adobe Flash Player to be installed. 
+If the Adobe Flash Player is installed,just open index.html with any browser ,Google Chrome or Mozilla Firefox,that supports Adobe Flash Player.
